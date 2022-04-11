@@ -3,10 +3,10 @@
                     Aspen HYSYS - Python interface 
                     for spreadsheets connection
 
-Author: Edgar Ivan Sanchez Medina
-Email: sanchez@mpi-magdeburg.mpg.de
+Author: Prof
+
 -------------------------------------------------------------------------------
-Date:   05/01/2020
+Date:   11/04/2022
 
 This is a test file for the Aspen HYSYS - Python connection using a flowsheet 
 with multiple units.
